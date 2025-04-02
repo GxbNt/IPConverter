@@ -16,8 +16,8 @@ This tool takes an IPv4 address and converts it into multiple alternative repres
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/ip-converter.git
-   cd ip-converter
+   git clone https://github.com/GxbNt/IPConverter.git
+   cd IPConverter
 2. Run the script
    ```bash
    python3 ip_converter.py
